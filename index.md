@@ -14,3 +14,4 @@
 - [GitHub](https://github.com/Kotokaze)  
 - [Qiita](https://qiita.com/Kotokaze)  
 - [Zenn](https://zenn.dev/kotokaze)  
+- [Speakerdeck](https://speakerdeck.com/kotokaze)
