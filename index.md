@@ -1,16 +1,15 @@
 # About
-簡単な自己紹介やアピール。
-どんなことができる、したいのか。
+簡単な自己紹介
 
 ## Profile
 - 名前: Kotokaze  
 - 所属: Ri-one, RiST  
 
-# Like
+## Like
 - OS: Windows, Ubuntu  
 - Languages: Python, C/C++  
 
-# Links
+## Links
 - [Twitter](https://twitter.com/Kotokaze__R)  
 - [GitHub](https://github.com/Kotokaze)  
 - [Qiita](https://qiita.com/Kotokaze)  
