@@ -13,5 +13,5 @@
 # Links
 - [Twitter](https://twitter.com/Kotokaze__R)  
 - [GitHub](https://github.com/Kotokaze)  
-- [Qiita](Qhttps://qiita.com/Kotokaze)  
+- [Qiita](https://qiita.com/Kotokaze)  
 - [Zenn](https://zenn.dev/kotokaze)  
