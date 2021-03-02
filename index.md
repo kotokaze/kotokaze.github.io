@@ -9,8 +9,13 @@
 - OS: Windows, Ubuntu  
 - Languages: Python, C/C++  
 
-## Works
-<iframe src="https://www.openprocessing.org/sketch/1101839/embed/" width="800" height="800"></iframe>
+## Studying
+- 確率ロボティクス
+- ROS2
+- MATLAB / Simulink
+- Django
+- Express
+- Twitter API
 
 ## Links
 - [GitHub](https://github.com/Kotokaze)  
