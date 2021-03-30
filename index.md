@@ -18,6 +18,7 @@ This is a brief description of me
 - 確率ロボティクス
 - ROS2
 - MATLAB / Simulink
+- flutter
 - Django
 - Express
 - Twitter API
