@@ -5,7 +5,11 @@ This is a brief description of me
 - 名前: Kotokaze
 - 所属: Ri-one, RiST
 
-## Like
+## Achievement
+- KC3-Hack2021 オーディエンス賞 第3位 (作品: [Chatree](https://github.com/kc3hack/2021_h))
+- セキュリティ・キャンプ全国大会2020 出場
+
+## Likes
 - OS: Windows, Ubuntu
 - Languages: Python, C/C++
 - Editor: Visual Studio Code, nano
@@ -17,10 +21,6 @@ This is a brief description of me
 - Django
 - Express
 - Twitter API
-
-## Achievement
-- KC3-Hack2021 オーディエンス賞 第3位 (作品: [Chatree](https://github.com/kc3hack/2021_h))
-- セキュリティ・キャンプ全国大会2020 出場
 
 ## Links
 - [GitHub](https://github.com/Kotokaze)
