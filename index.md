@@ -7,7 +7,8 @@ This is a brief description of me
 
 ## Achievement
 - KC3-Hack2021 オーディエンス賞 第3位 (作品: [Chatree](https://github.com/kc3hack/2021_h))
-- セキュリティ・キャンプ全国大会2020 出場
+- セキュリティ・キャンプ全国大会2020 Dトラック
+- SecHack 365 2021 (学習駆動・今岡ゼミ)
 
 ## Likes
 - OS: Windows, Ubuntu
@@ -29,5 +30,3 @@ This is a brief description of me
 - [Zenn](https://zenn.dev/kotokaze)
 - [Speakerdeck](https://speakerdeck.com/kotokaze)
 - [Twitter](https://twitter.com/Kotokaze__R)
-
-<a class="twitter-timeline" data-width="400" data-height="600" data-theme="light" href="https://twitter.com/Kotokaze__R?ref_src=twsrc%5Etfw">Tweets by Kotokaze__R</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
