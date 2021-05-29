@@ -6,9 +6,9 @@ This is a brief description of me
 - 所属: Ri-one, RiST
 
 ## Achievement
+- SecHack 365 2021 (学習駆動・今岡ゼミ)
 - KC3-Hack2021 オーディエンス賞 第3位 (作品: [Chatree](https://github.com/kc3hack/2021_h))
 - セキュリティ・キャンプ全国大会2020 Dトラック
-- SecHack 365 2021 (学習駆動・今岡ゼミ)
 
 ## Likes
 - OS: Windows, Ubuntu
